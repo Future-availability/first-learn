@@ -1,4 +1,5 @@
-head -3 runoob.php
+cat runoob.php
 <?php
+echo 1;
 echo 'runoob';
 ?>
